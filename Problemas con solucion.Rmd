@@ -227,7 +227,7 @@ sol02 %>%
 La mejor decisión sería utilizar la alternativa **Plan Básico** ya que es la alternativa óptima en la mayoría de los criterios.
 
 
-## PROBLEMA 1 (Magdalena)
+# PROBLEMA 1 (Magdalena)
 
 Aplica los criterios de decisión bajo incertidumbre al problema cuya matriz de valores numéricos viene dada en la tabla siguiente:
 
