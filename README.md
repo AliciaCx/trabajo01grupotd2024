@@ -1,11 +1,12 @@
-# trabajo01grupotd2024
+# Trabajo01 en grupo td 2024
 
 # Teoría de la Decisión bajo Incertidumbre
 ##  Componentes:
-Magdalena Ceballos  Rodríguez
-Alicia Casaux
 
-Este repositorio contiene la resolución de dos problemas de Teoría de la Decisión bajo Incertidumbre como parte de la asignatura. El objetivo de este trabajo es aplicar diferentes métodos de decisión utilizando el lenguaje de programación **R**.
+Magdalena Ceballos Rodríguez
+Alicia Casaux Vazquez
+
+Este repositorio contiene la resolución de cuatro problemas de Teoría de la Decisión bajo Incertidumbre como parte de la asignatura. El objetivo de este trabajo es aplicar diferentes métodos de decisión utilizando el lenguaje de programación **R**.
 
 ## Contenido del repositorio
 
@@ -15,12 +16,11 @@ Este repositorio contiene la resolución de dos problemas de Teoría de la Decis
 
 ## Estructura del proyecto
 
-- **Problemas_resueltos.Rmd**: Script en **RMarkdown** con la resolución del primer problema(de ambas componentes del trabajo) usando métodos de decisión bajo incertidumbre de forma individual.Además de la resolución del segundo problema utilizando una función que resuelve todos los métodos en una tabla.
+- **Problemas_resueltos.Rmd**: Script en **RMarkdown** con la resolución del primer problema (de ambas componentes del trabajo) usando métodos de decisión bajo incertidumbre de forma individual. Además de la resolución del segundo problema utilizando una función que resuelve todos los métodos en una tabla.
 
 - **Problemas_resueltos.pdf**: Documento que incluye el enunciado de los problemas y sus respectivas soluciones.
 
 - **README.md**: Este archivo, que describe el contenido del repositorio.
-
 
 - **Enunciados_problemas.Rmd**: Script en **RMarkdown** que incluye el enunciado de los problemas.
 
