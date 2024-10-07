@@ -58,6 +58,8 @@ tab01a <- crea.tablaX(c(10, -2, 5, 7,
 cat("La alternativa óptima según el criterio de Wald es", names(sol01a_Wald$AlternativaOptima), "siendo el valor óptimo", sol01a_Wald$ValorOptimo)
 ```
 
+\newpage
+
 **Criterio Optimista**
 ```{r, echo=FALSE}
 (sol01a_optimista <- criterio.Optimista(tab01a))
@@ -80,6 +82,8 @@ dibuja.criterio.Hurwicz_Intervalos(tab01a)
 (sol01a_savage <- criterio.Savage(tab01a))
 cat("La alternativa óptima según el criterio de Savage es", names(sol01a_savage$AlternativaOptima), "siendo el valor óptimo", sol01a_savage$ValorOptimo)
 ```
+
+\newpage
 
 **Criterio de Laplace**
 ```{r, echo=FALSE}
@@ -146,7 +150,7 @@ cat("La alternativa óptima según el criterio de Punto Ideal es", names(sol01b_
 
 # PROBLEMA 2 (Alicia)
 
-Isabel necesita un nuevo plan de telefonía móvil. Su compañía telefónica le hz ofrecido los siguientes planes:
+Isabel necesita un nuevo plan de telefonía móvil. Su compañía telefónica le ha ofrecido los siguientes planes:
 
   -   Con el *Plan Básico* debe pagar 20 euros al mes, le incluye 100 minutos de llamada y 2 GB de datos móviles.
   
@@ -216,6 +220,11 @@ tab02 %>%
   kable_styling(latex_options = c("striped", "condensed","HOLD_position"), 
                 position = "center",
                 full_width = FALSE)
+```
+
+Aplicando todos los criterios obtenemos lo siguiente:
+
+```{r, echo=FALSE}
 sol02 <- criterio.Todos(tab02, alfa = 0.5, F)
 sol02 %>%
   kable(booktabs = TRUE,format = "latex") %>%
@@ -296,7 +305,7 @@ cat("La alternativa óptima según el criterio de Laplace es", names(sol01a_lapl
 cat("La alternativa óptima según el criterio de Punto Ideal es", names(sol01a_puntoideal$AlternativaOptima), "siendo el valor óptimo", sol01a_puntoideal$ValorOptimo)
 ```
 
-
+\newpage
 
 ## Solución apartado b) Costos (desfavorable)
 ```{r, echo=FALSE}
