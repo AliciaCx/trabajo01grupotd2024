@@ -4,6 +4,7 @@
 ##  Componentes:
 
 Magdalena Ceballos Rodríguez
+
 Alicia Casaux Vazquez
 
 Este repositorio contiene la resolución de cuatro problemas de Teoría de la Decisión bajo Incertidumbre como parte de la asignatura. El objetivo de este trabajo es aplicar diferentes métodos de decisión utilizando el lenguaje de programación **R**.
