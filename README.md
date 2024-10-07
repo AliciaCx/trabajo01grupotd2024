@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Trabajo01 en grupo td 2024
 
 # Teoría de la Decisión bajo Incertidumbre
