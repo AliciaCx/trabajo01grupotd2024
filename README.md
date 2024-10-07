@@ -1,12 +1,13 @@
 # Trabajo01 en grupo td 2024
 
 # Teoría de la Decisión bajo Incertidumbre
-##  Componentes:
+##  Realizado por 
 
 Magdalena Ceballos Rodríguez
 
 Alicia Casaux Vazquez
 
+## Resumen 
 Este repositorio contiene la resolución de cuatro problemas de Teoría de la Decisión bajo Incertidumbre como parte de la asignatura. El objetivo de este trabajo es aplicar diferentes métodos de decisión utilizando el lenguaje de programación **R**.
 
 ## Contenido del repositorio
