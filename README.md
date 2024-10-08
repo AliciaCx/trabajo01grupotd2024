@@ -38,3 +38,7 @@ Este repositorio contiene la resolución de cuatro problemas de Teoría de la De
 - **Al menos 5 commits** con cambios importantes.
 - **Al menos 5 issues** o incidencias creadas en GitHub para gestionar el avance del proyecto.
 
+## Organización del proyecto
+Alicia hizo la creación del repositorio.
+Ambas participantes del grupo hemos ido añadiendo nuestros enunciado y problemas de manera conjunta, de forma que nos ibamos recordando las cosas que hacer a través de los issues.
+
