@@ -35,5 +35,5 @@ Este repositorio contiene la resolución de cuatro problemas de Teoría de la De
 
 ## Organización del proyecto
 Alicia hizo la creación del repositorio.
-Ambas participantes del grupo hemos ido añadiendo nuestros enunciado y problemas de manera conjunta, de forma que nos ibamos recordando las cosas que hacer a través de los issues.
+Ambas participantes del grupo hemos ido añadiendo nuestros enunciado y problemas de manera conjunta, de forma que nos hemos recordando las cosas que hacer a través de los issues.
 
